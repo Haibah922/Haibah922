@@ -28,9 +28,8 @@ I'm taking it one step at a time, learning, practicing, and improving with every
 
 ## 🤝 Connect With Me
 
-* 💼 [LinkedIn](YOUR_LINKEDIN_URL)
-* 🐙 [GitHub](https://github.com/YOUR_USERNAME)
-* 📧 [Email](mailto:YOUR_EMAIL@example.com)
+* 🐙 [GitHub](https://github.com/Haibah922)
+* 📧 [Email](mailto:haibatullah560@gmail.com)
 
 ---
 
